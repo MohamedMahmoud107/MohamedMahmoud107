@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m Mohamed Mahmoud a passionate Data Science student at Alexandria University, Faculty of Computers and Data Science, driven by a strong curiosity to turn data into insights and intelligent solutions. I have a deep passion for Statistics and Artificial Intelligence, and I’m constantly exploring how mathematical reasoning and AI technologies can be combined to solve real-world problems and uncover meaningful patterns in data.
+
+I apply my knowledge in Data Science, Machine Learning (ML), Deep Learning (DL), and Statistics to analyze data, build predictive models, and extract actionable insights.
+I enjoy working on real-world projects that involve Exploratory Data Analysis (EDA), feature engineering , model building ,evaluating and deployment, with a focus on developing and deploying ML and DL models for practical applications.
+
+I combine a strong foundation in Statistics with hands-on expertise in Machine Learning (ML), Deep Learning (DL), and Model Deployment, enabling me to bridge the gap between theory and real-world application.
+I don’t just build models — I analyze, explain, and apply them to deliver meaningful insights and data-driven solutions.
 <!--
 **MohamedMahmoud107/MohamedMahmoud107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
